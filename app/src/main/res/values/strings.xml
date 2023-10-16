@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Abubakir_Turakulov_hw_2_3</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="plus">+1</string>
+    <string name="minus">-1</string>
+    <string name="next">Next</string>
+    <string name="back">Back</string>
+    <string name="hello">Hello =)</string>
+    <string name="size">size</string>
+</resources>
